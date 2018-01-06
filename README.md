@@ -14,7 +14,7 @@ A complete guide to learn Ruby in a Day!
 
 ## Session 3
 ### [Classes and Methods](https://github.com/pramodshinde/learn-ruby-in-a-day/blob/master/class_in_ruby.md)
-### [Variables a view from Class](https://github.com/pramodshinde/learn-ruby-in-a-day/blob/master/variables_in_ruby.md)  
+### [Local, Instance, Class and Global Variables](https://github.com/pramodshinde/learn-ruby-in-a-day/blob/master/variables_in_ruby.md)  
 ### [Access Specifiers](https://github.com/pramodshinde/learn-ruby-in-a-day/blob/master/access_specifiers_in_ruby.md)
 ### [Inheritance](https://github.com/pramodshinde/learn-ruby-in-a-day/blob/master/inheritance_and_access_specifiers.md)
 ### [Modules and Mixins](https://github.com/pramodshinde/learn-ruby-in-a-day/blob/master/moduels_and_mixins.md)
